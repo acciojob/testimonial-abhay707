@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+
+:root{
+	padding:20px;
+	background-color:#f5f5f5
+}
+
+div{
+	border:1px solid lightgray;
+	margin-bottom:20px;
+	background-color:white;
+}
+
+.test{
+	padding:20px 0px 0px 20px;
+}
+
+.name_test{
+	text-align:right;
+	padding-right:20px;
+	padding-bottom:20px;
+	font-style:italic;
+}
+
